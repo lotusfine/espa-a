@@ -21,3 +21,9 @@ body, html {
     color: #333;
   }
   
+  .perfil-imagen {
+    width: 300px; /* Ajusta el tamaño según tus necesidades */
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3); /* Sombra con la forma de la imagen */
+    border-radius: 50%; /* O ajusta según sea necesario */
+  }
+  
